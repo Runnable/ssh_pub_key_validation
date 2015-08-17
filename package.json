@@ -1,6 +1,6 @@
 {
   "name": "ssh-pub-key-validation",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Function for validate openssh public key",
   "main": "lib/ssh_pub_key_validation.js",
   "scripts": {
@@ -15,7 +15,7 @@
   },
   "devDependencies": {
     "coffee-script": "~1.6.3",
-    "mocha":         "~1.13.0"
+    "mocha": "~1.13.0"
   },
   "dependencies": {
     "atob": "~1.1.0"
